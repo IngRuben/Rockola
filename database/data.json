@@ -1,100 +1,125 @@
+  
 {
   "albums": [
     {
-      "id": 1,
+      "id": "1",
       "album": "accusamus",
-      "description": "accusamus beatae ad facilis cum similique qui sunt",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       "url": "https://via.placeholder.com/600/92c952",
       "thumbnailUrl": "https://via.placeholder.com/150/92c952",
-      "artist": "92c952"
+      "artist": "92c952",
+      "audio": "/audio/guns.mp3",
+      "video": "/video/guns.mp4"
     },
     {
-      "id": 2,
+      "id": "58fdbf5c0ef8a50b4cdd9a85",
       "album": "reprehenderit",
-      "description": "reprehenderit est deserunt velit ipsam",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       "url": "https://via.placeholder.com/600/771796",
       "thumbnailUrl": "https://via.placeholder.com/150/771796",
-      "artist": "771796"
+      "artist": "771796",
+      "audio": "/audio/queen.mp3",
+      "video": "/video/queen.mp4"
     },
     {
-      "id": 3,
+      "id": "58fdbf5c0ef8a50b4cdd9a86",
       "album": "officia",
-      "description": "officia porro iure quia iusto qui ipsa ut modi",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       "url": "https://via.placeholder.com/600/24f355",
       "thumbnailUrl": "https://via.placeholder.com/150/24f355",
-      "artist": "24f355"
+      "artist": "24f355",
+      "audio": "/audio/daft-punk.mp3",
+      "video": "/video/daft-punk.mp4"
     },
     {
-      "id": 4,
+      "id": "58fdbf5c0ef8a50b4cdd9a84",
       "album": "culpa",
-      "description": "culpa odio esse rerum omnis laboriosam voluptate repudiandae",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       "url": "https://via.placeholder.com/600/d32776",
       "thumbnailUrl": "https://via.placeholder.com/150/d32776",
-      "artist": "d32776"
+      "artist": "d32776",
+      "audio": "/audio/guns.mp3",
+      "video": "/video/guns.mp4"
     },
     {
-      "id": 5,
+      "id": "58fdbf5c0ef8a50b4cdd9a88",
       "album": "aut",
-      "description": "aut porro officiis laborum odit ea laudantium corporis",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       "url": "https://via.placeholder.com/600/54176f",
       "thumbnailUrl": "https://via.placeholder.com/150/54176f",
-      "artist": "54176f"
+      "artist": "54176f",
+      "audio": "/audio/queen.mp3",
+      "video": "/video/queen.mp4"
     },
     {
-      "id": 6,
+      "id": "58fdbf5c0ef8a50b4cdd9a89",
       "album": "qui",
-      "description": "qui eius qui autem sed",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       "url": "https://via.placeholder.com/600/51aa97",
       "thumbnailUrl": "https://via.placeholder.com/150/51aa97",
-      "artist": "51aa97"
+      "artist": "51aa97",
+      "audio": "/audio/daft-punk.mp3",
+      "video": "/video/daft-punk.mp4"
     },
     {
-      "id": 7,
+      "id": "58fdbf5c0ef8a50b4cdd9a8a",
       "album": "beatae",
-      "description": "beatae et provident et ut vel",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       "url": "https://via.placeholder.com/600/810b14",
       "thumbnailUrl": "https://via.placeholder.com/150/810b14",
-      "artist": "810b14"
+      "artist": "810b14",
+      "audio": "/audio/guns.mp3",
+      "video": "/video/guns.mp4"
     },
     {
-      "id": 8,
+      "id": "58fdbf5c0ef8a50b4cdd9a8b",
       "album": "nihil",
-      "description": "nihil at amet non hic quia qui",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       "url": "https://via.placeholder.com/600/1ee8a4",
       "thumbnailUrl": "https://via.placeholder.com/150/1ee8a4",
-      "artist": "1ee8a4"
+      "artist": "1ee8a4",
+      "audio": "/audio/queen.mp3",
+      "video": "/video/queen.mp4"
     },
     {
-      "id": 9,
+      "id": "58fdbf5c0ef8a50b4cdd9a8c",
       "album": "mollitia",
-      "description": "mollitia soluta ut rerum eos aliquam consequatur",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       "url": "https://via.placeholder.com/600/66b7d2",
       "thumbnailUrl": "https://via.placeholder.com/150/66b7d2",
-      "artist": "66b7d2"
+      "artist": "66b7d2",
+      "audio": "/audio/daft-punk.mp3",
+      "video": "/video/daft-punk.mp4"
     },
     {
-      "id": 10,
+      "id": "58fdbf5c0ef8a50b4cdd9a8f",
       "album": "repudiandae",
-      "description": "repudiandae iusto deleniti rerum",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       "url": "https://via.placeholder.com/600/197d29",
       "thumbnailUrl": "https://via.placeholder.com/150/197d29",
-      "artist": "197d29"
+      "artist": "197d29",
+      "audio": "/audio/guns.mp3",
+      "video": "/video/guns.mp4"
     },
     {
-      "id": 11,
+      "id": "58fdbf5c0ef8a50b4cdd9a90",
       "album": "est",
-      "description": "est necessitatibus architecto ut laborum",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       "url": "https://via.placeholder.com/600/61a65",
       "thumbnailUrl": "https://via.placeholder.com/150/61a65",
-      "artist": "61a65"
+      "artist": "61a65",
+      "audio": "/audio/queen.mp3",
+      "video": "/video/queen.mp4"
     },
     {
-      "id": 12,
+      "id": "58fdbf5c0ef8a50b4cdd9a91",
       "album": "harum",
-      "description": "harum dicta similique quis dolore earum ex qui",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
       "url": "https://via.placeholder.com/600/f9cee5",
       "thumbnailUrl": "https://via.placeholder.com/150/f9cee5",
-      "artist": "f9cee5"
+      "artist": "f9cee5",
+      "audio": "/audio/daft-punk.mp3",
+      "video": "/video/daft-punk.mp4"
     }
   ]
 }
